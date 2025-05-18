@@ -10,7 +10,7 @@ A simple command-line tool to search and explore anime using the Jikan API.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/anime-cli.git
+git clone https://github.com/kengisenpai/anime-cli.git
 cd anime-cli
 pip install -r requirements.txt
 ```
@@ -19,8 +19,6 @@ pip install -r requirements.txt
 
 ```bash
 # Search anime
-python anime_cli.py search naruto
-
-# View top anime
-python anime_cli.py top
+ani-cli
+# put the name of the anime 
 ```
